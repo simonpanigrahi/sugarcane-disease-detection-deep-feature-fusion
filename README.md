@@ -136,7 +136,7 @@ Plant disease causes significant yield losses in sugarcane cultivation across tr
 
 **Simon Kenny Panigrahi**
 B.Tech Information Technology, VSSUT Burla (2022–2026)
-Former ML Intern, C-DOT — Centre for Development of Telematics, Government of India
+Former Student Intern Trainee (AI/ML), C-DOT (Centre for Development of Telematics, Government of India)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simonkp-blue?logo=linkedin)](https://linkedin.com/in/simonkp)
 [![GitHub](https://img.shields.io/badge/GitHub-simonpanigrahi-black?logo=github)](https://github.com/simonpanigrahi)
